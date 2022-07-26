@@ -24,7 +24,7 @@ oauthlib==3.0.1
 phonenumbers==8.10.5
 phonenumberslite==8.8.8
 Pillow==5.2.0
-pipenv==2018.11.26
+pipenv==2022.1.8
 pycparser==2.19
 requests==2.21.0
 sqlparse==0.2.4
