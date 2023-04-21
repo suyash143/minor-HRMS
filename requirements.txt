@@ -27,5 +27,5 @@ Pillow==5.2.0
 pipenv==2018.11.26
 pycparser==2.19
 requests==2.21.0
-sqlparse==0.2.4
+sqlparse==0.4.4
 tinycss2==1.0.1
